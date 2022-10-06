@@ -20,8 +20,8 @@
   ## Contribute
   This project is complete and does not need contributors.
   ## Screenshot-Video Link
-  ![Team Profile Generator](./assets/images/Team_Profile_Generator_Screenshot.png)
-  [Demonstration Video](https://drive.google.com/file/d/1qP2O8dD6CWqu2CuF0l09C1PSO-zBaOS8/view?usp=sharing)
+  ![Team Profile Generator](./assets/images/Team_Profile_Generator.png)
+  [Demonstration Video](https://drive.google.com/file/d/1XlvOZvtEdfZF3Z4x2dX_NtFKLuhfvzm1/view?usp=sharing)
   ### Test Instructions
   Type npm run test in terminal.
   ## License
